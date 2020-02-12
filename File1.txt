@@ -1,15 +1,5 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 Hello World !!
 
 Welcome to Git
 
 Change : Login feature
-
-Change to test revert
-=======
-Hello World !!
->>>>>>> parent of 78d57e1... File1 changed for welcome to git
-=======
-Hello World !!
->>>>>>> parent of 78d57e1... File1 changed for welcome to git
