@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 Hello World !!
 
 Welcome to Git
 
 Change : Login feature
+=======
+Hello World !!
+>>>>>>> parent of 78d57e1... File1 changed for welcome to git
